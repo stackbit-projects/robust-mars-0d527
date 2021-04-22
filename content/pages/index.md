@@ -47,25 +47,6 @@ sections:
         image_align: left
         image_has_padding: true
         image_position: top
-      - title: On Any Device
-        title_align: left
-        content: >-
-          App Land synchronizes across Android and iOS phones, and on your
-          computer or tablet. See all your dates and info anywhere you are.
-        content_align: left
-        actions:
-          - label: Learn More
-            url: /style-guide
-            style: link
-            has_icon: true
-            icon: arrow-right
-            icon_position: center
-        actions_align: left
-        image: images/icon-2.svg
-        image_alt: Icon 2
-        image_align: left
-        image_has_padding: true
-        image_position: top
       - title: Smart Notifications
         title_align: left
         content: >-
